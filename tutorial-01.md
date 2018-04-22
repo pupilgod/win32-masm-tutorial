@@ -2,7 +2,7 @@
 
 > 这里我们假设读者已经安装了masm，如果你还没有安装masm，请在阅读下文前先点击[此处](http://www.masm32.com/download.htm)下载masm并安装
 
-## 原理
+## 理论
 
 Win32程序从Intel 80286([wiki百科](https://zh.wikipedia.org/wiki/Intel_80286))起就运行在保护模式下，但是到目前，80286显然是个古董了。所以我们只需要关心Intel 80386([wiki百科](https://zh.wikipedia.org/wiki/Intel_80386))及其后代版本
 
