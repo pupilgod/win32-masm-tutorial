@@ -1,4 +1,5 @@
-# win32-masm-tutorial
-Tutorial for win32 platform. (translation version)
+# Win32开发教程
 
-Origin from [http://win32assembly.programminghorizon.com/](http://win32assembly.programminghorizon.com/)
+本教程为简体中文翻译版
+
+原文链接 [http://win32assembly.programminghorizon.com/](http://win32assembly.programminghorizon.com/)
